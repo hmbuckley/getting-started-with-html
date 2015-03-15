@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title><b>Howard's webpage of notes on Basics of the Web and HTML</b></title></head>
+
+<body>The world wide web is made up of HTML documents(Hyper text markup language).<br>
+It uses hyperlinks or links to glue it all together. It was created in the early 90s.<br>
+
+The major pieces of the web are:<br>
+
+<b>You</b>, your computer and your web browser,
+the internet,
+and the servers that sit in wiring closets<br>
+ and host all of the different types of files, such as images, videos, documents etc
+
+<p> The web uses <b>HTTP(Hyper Text Transport Protocol)</b></p>
+<em>HTML(Hyper Text Markup Language) is used to create web pages.</em>
+<p> HTML Markup uses elements that are made up of tags, content and attributes</p>
+There are many differnt types of tags such as b for bold, em for italics, br for line break<br>
+and p for paragraph.
+<p> You can insert links to other pages such as <a href "nhl.com"> hockey</a> to get the latest on the nhl.</p>
+Attributes have values such as nhl.com in the link above.<br>
+All whitespace becomes a single line, so you can use br or p to create new lines and paragraphs.
+</body></html>
+
+
